@@ -1,2 +1,3 @@
 This is a sample text.
-Please erase this line at local repo.
+Please increment the number below.
+1
